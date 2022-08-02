@@ -1,0 +1,6 @@
+[27-Aug-2021 00:55:56 America/Fortaleza] PHP Warning:  include(/etc/apache2/htdocs/components/header.php): failed to open stream: No such file or directory in /home2/one80297/public_html/index.php on line 37
+[27-Aug-2021 00:55:56 America/Fortaleza] PHP Warning:  include(/etc/apache2/htdocs/components/header.php): failed to open stream: No such file or directory in /home2/one80297/public_html/index.php on line 37
+[27-Aug-2021 00:55:56 America/Fortaleza] PHP Warning:  include(): Failed opening '/etc/apache2/htdocs/components/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/one80297/public_html/index.php on line 37
+[27-Aug-2021 00:55:56 America/Fortaleza] PHP Warning:  include(/etc/apache2/htdocs/components/footer.php): failed to open stream: No such file or directory in /home2/one80297/public_html/index.php on line 435
+[27-Aug-2021 00:55:56 America/Fortaleza] PHP Warning:  include(/etc/apache2/htdocs/components/footer.php): failed to open stream: No such file or directory in /home2/one80297/public_html/index.php on line 435
+[27-Aug-2021 00:55:56 America/Fortaleza] PHP Warning:  include(): Failed opening '/etc/apache2/htdocs/components/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/one80297/public_html/index.php on line 435
