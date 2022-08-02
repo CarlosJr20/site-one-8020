@@ -101,13 +101,13 @@
                             <div id="bota_div"><img src="/assets/img/social-media-mobile/benefícios mobile.png" class="img_beneficios"></div>
                             <!-- Desk -->
                             <div id='tira_div' class="btn_social_media">
-                                <a href="#form_contact" class="btn btn--green btn--lg mb-0 mt-4 align-items-center">
+                                <a href="#form_contact" class="btn btn_social_green btn--lg mb-0 mt-4 align-items-center">
                                     EU QUERO UM PLANO PAUTAS ONE 80/20
                                 </a>
                             </div>
                             <!-- Mobile -->
                             <div id='bota_div' class="btn_social_media">
-                                <a href="#" class="btn btn--green btn--lg mb-0 mt-4 align-items-center">
+                                <a href="#form_contact" class="btn btn_social_green btn--lg mb-0 mt-4 align-items-center">
                                     <p>EU QUERO UM PLANO </p>PAUTAS ONE 80/20
                                 </a>
                             </div>
@@ -135,13 +135,13 @@
                             <div id="bota_div"><img src="/assets/img/social-media-mobile/tipos.png" class="img_beneficios"></div>
                             <!-- Desk -->
                             <div id='tira_div' class="btn_social_media">
-                                <a href="#" class="btn btn--blue btn--lg mb-0 mt-4 align-items-center">
+                                <a href="#" class="btn btn_social_blue btn--lg mb-0 mt-4 align-items-center">
                                     VEJA NOSSO PORTFÓLIO DE REDES SOCIAIS
                                 </a>
                             </div>
                             <!-- Mobile -->
                             <div id='bota_div' class="btn_social_media">
-                                <a href="#" class="btn btn--blue btn--lg mb-0 mt-4 align-items-center">
+                                <a href="#" class="btn btn_social_blue btn--lg mb-0 mt-4 align-items-center">
                                     <p> VEJA NOSSO PORTFÓLIO DE </p>REDES SOCIAIS
                                 </a>
                             </div>

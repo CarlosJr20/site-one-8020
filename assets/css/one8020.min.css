@@ -14802,7 +14802,7 @@ main.home {
 
     }
 
-    .btn.btn--green {
+    .btn_social_green {
         background: #3ECF8E;
         border-color: #3ECF8E;
         color: #fff;
@@ -14813,7 +14813,14 @@ main.home {
         margin: 0vw 0px 0vw -13px;
     }
 
-    .btn.btn--blue {
+    .btn_social_green:hover{
+        background: #0ab86a;
+        border-color: #0ab86a;
+        color: #fff;
+    }
+
+
+    .btn_social_blue {
         background: #3479b2;
         border-color: #3479b200;
         color: #fff;
@@ -14822,6 +14829,11 @@ main.home {
         font-size: 19px;
         border-radius: 9px;
         margin: 0vw 0px 0vw -13px;
+    }
+    .btn_social_blue:hover{
+        background: #0665b3;
+        border-color: #3479b200;
+        color: #fff;
     }
 
     /* Botão FORM */
@@ -14928,7 +14940,7 @@ main.home {
 
     }
 
-    .btn.btn--green {
+    .btn_social_green {
         background: #3ECF8E;
         border-color: #3ECF8E;
         color: #fff;
@@ -14936,14 +14948,24 @@ main.home {
         font-size: 40px;
         border-radius: 15px;
     }
+    .btn_social_green:hover{
+        background: #0ab86a;
+        border-color: #0ab86a;
+        color: #fff;
+    }
 
-    .btn.btn--blue {
+    .btn_social_blue {
         background: #3479b2;
         border-color: #3479b200;
         color: #fff;
         width: 100%;
         font-size: 40px;
         border-radius: 15px;
+    }
+    .btn_social_blue:hover{
+        background: #0665b3;
+        border-color: #3479b200;
+        color: #fff;
     }
 
     /* Botão FORM */
