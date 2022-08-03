@@ -63,7 +63,7 @@
 
                 <div class="descricao_social_media">
 
-                    <p class="lead wow fadeInUp animated" data-wow-delay=".2s">A presença das empresas e profissionais nas mídias sociais se tornou imprescindível. As redes sociais são o meio onde
+                    <p class="lead wow fadeInUp animated texto_incial" data-wow-delay=".2s">A presença das empresas e profissionais nas mídias sociais se tornou imprescindível. As redes sociais são o meio onde
                         seu público-alvo está esperando a solução que você oferece para necessidades, problemas e desejos! Apareça e seja
                         destacado com as pautas ONE 80/20.</p><br>
                     <p class="lead wow fadeInUp animated" data-wow-delay=".2s">
@@ -160,13 +160,13 @@
                         </div>
 
                     </div>
-                    <h1 id="tira_div" style=" margin: 5vw 30vw 3vw 0vw ;">APROVAÇÃO DIGITAL DE PAUTAS</h1> <!-- NO DESK -->
+                    <h1 id="tira_div" class="h1_title_gestao" style=" margin: 5vw 30vw 3vw 0vw ;">APROVAÇÃO DIGITAL DE PAUTAS</h1> <!-- NO DESK -->
                     <h1 id="bota_div" style=" margin: 14vw 3vw 3vw 0vw;">APROVAÇÃO DIGITAL DE PAUTAS</h1> <!-- NO MOBILE -->
-                    <p id="tira_div" class="lead wow fadeInUp animated" style="margin: 3vw 2vw 5vw 0vw;" data-wow-delay=".2s">A ONE 80/20 cria um espaço especial e particular onde você pode:</p><br>
+                    <p id="tira_div p_tela_grande" class="lead wow fadeInUp animated" style="margin: 3vw 2vw 5vw 0vw;" data-wow-delay=".2s">A ONE 80/20 cria um espaço especial e particular onde você pode:</p><br>
                     </p> <!-- NO DESK -->
                     <p id="bota_div" class="lead wow fadeInUp animated" style=" margin: 0vw 0vw 7vw 0vw; font-size: 19px;" data-wow-delay=".2s">A ONE 80/20 cria um espaço especial e particular onde você pode:</p><br>
                     </p> <!-- NO MOBILE -->
-                    <div class="lista_itens">
+                    <div class="lista_itens lista_itens_pauta">
                         <li>
                             <h4><img src="/assets/img/social-media-desk/seta.png" class="icone_lista"> AVALIAR SUAS PUBLICAÇÕES</h4>
                         </li>
@@ -193,7 +193,7 @@
                     </div>
                     <div>
                         <p class="lead wow fadeInUp animated" data-wow-delay=".2s">
-                        <h1 id="tira_div" style=" margin: 2vw 21vw 0vw 0vw ;">GESTÃO DE TRÁFEGO EM REDES SOCIAIS</h1> <!-- NO DESK -->
+                        <h1 id="tira_div" class="h1_title_gestao" style=" margin: 2vw 21vw 0vw 0vw;">GESTÃO DE TRÁFEGO EM REDES SOCIAIS</h1> <!-- NO DESK -->
                         <h1 id="bota_div" style=" margin: -9vw 0vw 0vw 0vw;">GESTÃO DE TRÁFEGO EM REDES SOCIAIS</h1> <!-- NO MOBILE -->
                         </p>
                         <p class="lead wow fadeInUp animated" data-wow-delay=".2s">A gestão de tráfego é uma para controle e monitoramento do caminho dos usuários através dos anúncios, que são

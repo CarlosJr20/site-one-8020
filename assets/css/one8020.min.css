@@ -14737,7 +14737,7 @@ main.home {
     }
 }
 
-@media only screen and (min-width:768px) and (max-width:8000px) {
+@media only screen and (min-width:768px) {
     #bota_div {
         display: none !important;
     }
@@ -14813,7 +14813,7 @@ main.home {
         margin: 0vw 0px 0vw -13px;
     }
 
-    .btn_social_green:hover{
+    .btn_social_green:hover {
         background: #0ab86a;
         border-color: #0ab86a;
         color: #fff;
@@ -14830,7 +14830,8 @@ main.home {
         border-radius: 9px;
         margin: 0vw 0px 0vw -13px;
     }
-    .btn_social_blue:hover{
+
+    .btn_social_blue:hover {
         background: #0665b3;
         border-color: #3479b200;
         color: #fff;
@@ -14863,7 +14864,8 @@ main.home {
         font-size: 16px;
         margin: 4vw 0vw 0vw 0vw;
     }
-    .h1_title_contact{
+
+    .h1_title_contact {
         font-size: 2em;
     }
 
@@ -14872,7 +14874,7 @@ main.home {
 }
 
 
-@media (min-width:768px) and (max-width:8000px) {
+@media (min-width:768px) and (max-width:1400px) {
 
     .section--padding {
         padding: 120px 0;
@@ -14948,7 +14950,8 @@ main.home {
         font-size: 40px;
         border-radius: 15px;
     }
-    .btn_social_green:hover{
+
+    .btn_social_green:hover {
         background: #0ab86a;
         border-color: #0ab86a;
         color: #fff;
@@ -14962,7 +14965,8 @@ main.home {
         font-size: 40px;
         border-radius: 15px;
     }
-    .btn_social_blue:hover{
+
+    .btn_social_blue:hover {
         background: #0665b3;
         border-color: #3479b200;
         color: #fff;
@@ -14975,7 +14979,182 @@ main.home {
         font-weight: 900 !important;
         font-size: 30px;
     }
-    .h1_title_contact{
+
+    .h1_title_contact {
+        font-size: 3em;
+    }
+
+    .btn_enviar_form {
+        width: 20% !important;
+        font-size: 30px;
+        border-radius: 30px;
+        padding: 0vw 0vw 0vw 0vw;
+        background: #4d4d4e;
+        border-color: #4d4d4e;
+
+    }
+
+    .btn_enviar_form:hover {
+        background: #737373;
+        border-color: #737373;
+    }
+
+    .campo_form {
+        border-radius: 15px !important;
+    }
+    .lista_itens_pauta {
+        margin: -9vw 0vw 0vw 0vw;
+
+    }
+
+}
+
+@media (min-width:1400px) and (max-width:1650px) {
+    .h1_title_gestao {
+        margin: 2vw 27vw 0vw 0vw !important;
+    }
+    .lista_itens_pauta {
+        margin: -9vw 0vw 0vw 0vw;
+
+    }
+
+}
+@media (min-width:1650px) and (max-width:1780px) {
+    .h1_title_gestao {
+        /* margin: 2vw 17vw 0vw 0vw !important; */
+        margin: 2vw 17vw 0vw 0vw !important;
+    }
+    .lista_itens_pauta {
+        margin: -9vw 0vw 0vw 0vw;
+
+    }
+
+}
+
+@media (min-width:1500px) and (max-width:1580px) {
+    .h1_title_gestao {
+        margin: 2vw 27vw 0vw 0vw !important;
+    }
+    .lista_itens_pauta {
+        margin: -9vw 0vw 0vw 0vw;
+
+    }
+}
+
+
+@media (min-width:1400px) and (max-width:1830px) {
+
+    .section--padding {
+        padding: 120px 0;
+    }
+
+    .img_fundo {
+        background-size: cover;
+        color: #fff;
+        width: -webkit-fill-available;
+    }
+
+    .descricao_social_media {
+        text-align: justify;
+        color: black;
+        margin: -6vw 0vw 0vw 0vw;
+    }
+
+    h4 {
+
+        font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+        font-weight: 700;
+        /* margin: -4vw 0vw 0vw 0vw !important; */
+        color: #26497e !important;
+        font-variant-ligatures: common-ligatures;
+
+
+    }
+
+ 
+
+    li {
+        list-style-type: none;
+    }
+
+    .icone_lista {
+        width: 20px;
+        /* font-variant-ligatures: common-ligatures; */
+        margin: -6px 1vw 0vw 0vw;
+    }
+
+    .lista_itens {
+        margin: -5vw 0vw 0vw 0vw;
+
+    }
+    .lista_itens_pauta {
+        margin: -9vw 0vw 0vw 0vw;
+
+    }
+
+    .img_beneficios {
+        width: 100%;
+        margin: -5vw 0vw 0vw 0vw;
+    }
+
+    .img_publicacoes {
+        width: 100%;
+        text-align: center;
+        margin: -5vw 0vw 0vw 0vw;
+    }
+
+    /* PARTE DO BOTÃO Modificado*/
+    .btn_social_media {
+
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+    }
+
+    .seta_social_media {
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+
+    }
+
+    .btn_social_green {
+        background: #3ECF8E;
+        border-color: #3ECF8E;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_green:hover {
+        background: #0ab86a;
+        border-color: #0ab86a;
+        color: #fff;
+    }
+
+    .btn_social_blue {
+        background: #3479b2;
+        border-color: #3479b200;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_blue:hover {
+        background: #0665b3;
+        border-color: #3479b200;
+        color: #fff;
+    }
+
+    /* Botão FORM */
+
+    .title_form_contact {
+        color: #000000 !important;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+
+    .h1_title_contact {
         font-size: 3em;
     }
 
@@ -14999,3 +15178,609 @@ main.home {
     }
 
 }
+
+
+@media (min-width:1820px) and (max-width:2030px) {
+    .h1_title_gestao {
+        margin: 2vw 22vw 0vw 0vw !important;
+    }
+    .lista_itens_pauta {
+        margin: -8vw 0vw 0vw 0vw !important;
+
+    }
+    .texto_incial {
+        margin: 2vw 0vw 0vw 0vw;
+    }
+    .section--padding {
+        padding: 120px 0;
+    }
+
+    .img_fundo {
+        background-size: cover;
+        color: #fff;
+        width: -webkit-fill-available;
+    }
+
+    .descricao_social_media {
+        text-align: justify;
+        color: black;
+        margin: -6vw 0vw 0vw 0vw;
+    }
+
+    h4 {
+
+        font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+        font-weight: 700;
+        /* margin: -4vw 0vw 0vw 0vw !important; */
+        color: #26497e !important;
+        font-variant-ligatures: common-ligatures;
+
+
+    }
+
+   
+
+    li {
+        list-style-type: none;
+    }
+
+    .icone_lista {
+        width: 20px;
+        /* font-variant-ligatures: common-ligatures; */
+        margin: -6px 1vw 0vw 0vw;
+    }
+
+    .lista_itens {
+        margin: -5vw 0vw 0vw 0vw;
+
+    }
+
+    .img_beneficios {
+        width: 100%;
+        margin: -5vw 0vw 0vw 0vw;
+    }
+
+    .img_publicacoes {
+        width: 100%;
+        text-align: center;
+        margin: -5vw 0vw 0vw 0vw;
+    }
+
+    /* PARTE DO BOTÃO Modificado*/
+    .btn_social_media {
+
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+    }
+
+    .seta_social_media {
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+
+    }
+
+    .btn_social_green {
+        background: #3ECF8E;
+        border-color: #3ECF8E;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_green:hover {
+        background: #0ab86a;
+        border-color: #0ab86a;
+        color: #fff;
+    }
+
+    .btn_social_blue {
+        background: #3479b2;
+        border-color: #3479b200;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_blue:hover {
+        background: #0665b3;
+        border-color: #3479b200;
+        color: #fff;
+    }
+
+    /* Botão FORM */
+
+    .title_form_contact {
+        color: #000000 !important;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+
+    .h1_title_contact {
+        font-size: 3em;
+    }
+
+    .btn_enviar_form {
+        width: 20% !important;
+        font-size: 30px;
+        border-radius: 30px;
+        padding: 0vw 0vw 0vw 0vw;
+        background: #4d4d4e;
+        border-color: #4d4d4e;
+
+    }
+
+    .btn_enviar_form:hover {
+        background: #737373;
+        border-color: #737373;
+    }
+
+    .campo_form {
+        border-radius: 15px !important;
+    }
+
+}
+
+@media (min-width:2030px) and (max-width:2670px) {
+     /* .p_tela_grande{
+        margin: 2vw 0vw 0vw 0vw; 
+    }  */
+    .h1_title_gestao {
+        margin: 2vw 14vw 0vw 0vw !important;
+    }
+
+    .texto_incial {
+        margin: 2vw 0vw 0vw 0vw;
+    }
+    .icone_lista {
+        width: 20px;
+        /* font-variant-ligatures: common-ligatures; */
+        margin: -6px 1vw 0vw 0vw;
+    }
+
+    .texto_incial {
+        margin: 2vw 0vw 0vw 0vw;
+    }
+    .section--padding {
+        padding: 120px 0;
+    }
+
+    .img_fundo {
+        background-size: cover;
+        color: #fff;
+        width: -webkit-fill-available;
+    }
+
+    .descricao_social_media {
+        text-align: justify;
+        color: black;
+        margin: -6vw 0vw 0vw 0vw;
+    }
+
+    h4 {
+
+        font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+        font-weight: 700;
+        /* margin: -4vw 0vw 0vw 0vw !important; */
+        color: #26497e !important;
+        font-variant-ligatures: common-ligatures;
+
+
+    }
+
+   
+
+    li {
+        list-style-type: none;
+    }
+
+    .icone_lista {
+        width: 20px;
+        /* font-variant-ligatures: common-ligatures; */
+        margin: -6px 1vw 0vw 0vw;
+    }
+
+    .lista_itens {
+        margin: -4vw 0vw 0vw 0vw;
+
+    }
+    .lista_itens_pauta {
+        margin: -7vw 0vw 0vw 0vw;
+
+    }
+
+    .img_beneficios {
+        width: 100%;
+        margin: -4vw 0vw 0vw 0vw;
+    }
+
+    .img_publicacoes {
+        width: 100%;
+        text-align: center;
+        margin: -4vw 0vw 0vw 0vw;
+    }
+
+    /* PARTE DO BOTÃO Modificado*/
+    .btn_social_media {
+
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+    }
+
+    .seta_social_media {
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+
+    }
+
+    .btn_social_green {
+        background: #3ECF8E;
+        border-color: #3ECF8E;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_green:hover {
+        background: #0ab86a;
+        border-color: #0ab86a;
+        color: #fff;
+    }
+
+    .btn_social_blue {
+        background: #3479b2;
+        border-color: #3479b200;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_blue:hover {
+        background: #0665b3;
+        border-color: #3479b200;
+        color: #fff;
+    }
+
+    /* Botão FORM */
+
+    .title_form_contact {
+        color: #000000 !important;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+
+    .h1_title_contact {
+        font-size: 3em;
+    }
+
+    .btn_enviar_form {
+        width: 20% !important;
+        font-size: 30px;
+        border-radius: 30px;
+        padding: 0vw 0vw 0vw 0vw;
+        background: #4d4d4e;
+        border-color: #4d4d4e;
+
+    }
+
+    .btn_enviar_form:hover {
+        background: #737373;
+        border-color: #737373;
+    }
+
+    .campo_form {
+        border-radius: 15px !important;
+    }
+}
+@media (min-width:2680px) and (max-width:3200px) {
+     /* .p_tela_grande{
+        margin: 2vw 0vw 0vw 0vw; 
+    }  */
+    .h1_title_gestao {
+        margin: 2vw 15vw 0vw 0vw !important;
+    }
+
+    .texto_incial {
+        margin: 3vw 0vw 0vw 0vw !important;
+    }
+    .icone_lista {
+        width: 20px;
+        /* font-variant-ligatures: common-ligatures; */
+        margin: -6px 1vw 0vw 0vw;
+    }
+
+    .texto_incial {
+        margin: 2vw 0vw 0vw 0vw;
+    }
+    .section--padding {
+        padding: 120px 0;
+    }
+
+    .img_fundo {
+        background-size: cover;
+        color: #fff;
+        width: -webkit-fill-available;
+    }
+
+    .descricao_social_media {
+        text-align: justify;
+        color: black;
+        margin: -6vw 0vw 0vw 0vw;
+    }
+
+    h4 {
+
+        font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+        font-weight: 700;
+        /* margin: -4vw 0vw 0vw 0vw !important; */
+        color: #26497e !important;
+        font-variant-ligatures: common-ligatures;
+
+
+    }
+
+   
+
+    li {
+        list-style-type: none;
+    }
+
+    .icone_lista {
+        width: 20px;
+        /* font-variant-ligatures: common-ligatures; */
+        margin: -6px 1vw 0vw 0vw;
+    }
+
+    .lista_itens {
+        margin: -3vw 0vw 0vw 0vw;
+
+    }
+    .lista_itens_pauta {
+        margin: -7vw 0vw 0vw 0vw;
+
+    }
+
+    .img_beneficios {
+        width: 100%;
+        margin: -3vw 0vw 0vw 0vw;
+    }
+
+    .img_publicacoes {
+        width: 100%;
+        text-align: center;
+        margin: -3vw 0vw 0vw 0vw;
+    }
+
+    /* PARTE DO BOTÃO Modificado*/
+    .btn_social_media {
+
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+    }
+
+    .seta_social_media {
+        text-align: center;
+        margin: 2vw 0vw 0vw 0vw;
+
+    }
+
+    .btn_social_green {
+        background: #3ECF8E;
+        border-color: #3ECF8E;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_green:hover {
+        background: #0ab86a;
+        border-color: #0ab86a;
+        color: #fff;
+    }
+
+    .btn_social_blue {
+        background: #3479b2;
+        border-color: #3479b200;
+        color: #fff;
+        width: 100%;
+        font-size: 40px;
+        border-radius: 15px;
+    }
+
+    .btn_social_blue:hover {
+        background: #0665b3;
+        border-color: #3479b200;
+        color: #fff;
+    }
+
+    /* Botão FORM */
+
+    .title_form_contact {
+        color: #000000 !important;
+        font-weight: 900 !important;
+        font-size: 30px;
+    }
+
+    .h1_title_contact {
+        font-size: 3em;
+    }
+
+    .btn_enviar_form {
+        width: 20% !important;
+        font-size: 30px;
+        border-radius: 30px;
+        padding: 0vw 0vw 0vw 0vw;
+        background: #4d4d4e;
+        border-color: #4d4d4e;
+
+    }
+
+    .btn_enviar_form:hover {
+        background: #737373;
+        border-color: #737373;
+    }
+
+    .campo_form {
+        border-radius: 15px !important;
+    }
+}
+
+
+@media (min-width:3300px) and (max-width:8000px) {
+    /* .p_tela_grande{
+       margin: 2vw 0vw 0vw 0vw; 
+   }  */
+   .h1_title_gestao {
+       margin: 2vw 7vw 0vw 0vw !important;
+   }
+
+   .texto_incial {
+       margin: 3vw 0vw 0vw 0vw !important;
+   }
+   .icone_lista {
+       width: 20px;
+       /* font-variant-ligatures: common-ligatures; */
+       margin: -6px 1vw 0vw 0vw;
+   }
+
+   .texto_incial {
+       margin: 4vw 0vw 0vw 0vw !important;
+   }
+   .section--padding {
+       padding: 120px 0;
+   }
+
+   .img_fundo {
+       background-size: cover;
+       color: #fff;
+       width: -webkit-fill-available;
+   }
+
+   .descricao_social_media {
+       text-align: justify;
+       color: black;
+       margin: -6vw 0vw 0vw 0vw;
+   }
+
+   h4 {
+
+       font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+       font-weight: 700;
+       /* margin: -4vw 0vw 0vw 0vw !important; */
+       color: #26497e !important;
+       font-variant-ligatures: common-ligatures;
+
+
+   }
+
+  
+
+   li {
+       list-style-type: none;
+   }
+
+   .icone_lista {
+       width: 20px;
+       /* font-variant-ligatures: common-ligatures; */
+       margin: -6px 1vw 0vw 0vw;
+   }
+
+   .lista_itens {
+       margin: -2vw 0vw 0vw 0vw;
+
+   }
+   .lista_itens_pauta {
+       margin: -6vw 0vw 0vw 0vw;
+
+   }
+
+   .img_beneficios {
+       width: 100%;
+       margin: -2vw 0vw 0vw 0vw;
+   }
+
+   .img_publicacoes {
+       width: 100%;
+       text-align: center;
+       margin: -2vw 0vw 0vw 0vw;
+   }
+
+   /* PARTE DO BOTÃO Modificado*/
+   .btn_social_media {
+
+       text-align: center;
+       margin: 2vw 0vw 0vw 0vw;
+   }
+
+   .seta_social_media {
+       text-align: center;
+       margin: 2vw 0vw 0vw 0vw;
+
+   }
+
+   .btn_social_green {
+       background: #3ECF8E;
+       border-color: #3ECF8E;
+       color: #fff;
+       width: 100%;
+       font-size: 40px;
+       border-radius: 15px;
+   }
+
+   .btn_social_green:hover {
+       background: #0ab86a;
+       border-color: #0ab86a;
+       color: #fff;
+   }
+
+   .btn_social_blue {
+       background: #3479b2;
+       border-color: #3479b200;
+       color: #fff;
+       width: 100%;
+       font-size: 40px;
+       border-radius: 15px;
+   }
+
+   .btn_social_blue:hover {
+       background: #0665b3;
+       border-color: #3479b200;
+       color: #fff;
+   }
+
+   /* Botão FORM */
+
+   .title_form_contact {
+       color: #000000 !important;
+       font-weight: 900 !important;
+       font-size: 30px;
+   }
+
+   .h1_title_contact {
+       font-size: 3em;
+   }
+
+   .btn_enviar_form {
+       width: 20% !important;
+       font-size: 30px;
+       border-radius: 30px;
+       padding: 0vw 0vw 0vw 0vw;
+       background: #4d4d4e;
+       border-color: #4d4d4e;
+
+   }
+
+   .btn_enviar_form:hover {
+       background: #737373;
+       border-color: #737373;
+   }
+
+   .campo_form {
+       border-radius: 15px !important;
+   }
+}
+
