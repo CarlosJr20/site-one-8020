@@ -162,7 +162,7 @@
                     </div>
                     <h1 id="tira_div" class="h1_title_gestao" style=" margin: 5vw 30vw 3vw 0vw ;">APROVAÇÃO DIGITAL DE PAUTAS</h1> <!-- NO DESK -->
                     <h1 id="bota_div" style=" margin: 14vw 3vw 3vw 0vw;">APROVAÇÃO DIGITAL DE PAUTAS</h1> <!-- NO MOBILE -->
-                    <p id="tira_div p_tela_grande" class="lead wow fadeInUp animated" style="margin: 3vw 2vw 5vw 0vw;" data-wow-delay=".2s">A ONE 80/20 cria um espaço especial e particular onde você pode:</p><br>
+                    <p id="tira_div " class="lead wow fadeInUp animated p_tela_grande" style="margin: 3vw 2vw 5vw 0vw;" data-wow-delay=".2s">A ONE 80/20 cria um espaço especial e particular onde você pode:</p><br>
                     </p> <!-- NO DESK -->
                     <p id="bota_div" class="lead wow fadeInUp animated" style=" margin: 0vw 0vw 7vw 0vw; font-size: 19px;" data-wow-delay=".2s">A ONE 80/20 cria um espaço especial e particular onde você pode:</p><br>
                     </p> <!-- NO MOBILE -->
@@ -188,7 +188,7 @@
                         <h1 id="tira_div" style=" margin: 5vw 0vw 0vw 0vw ;">ANÚNCIOS EM REDES SOCIAIS</h1> <!-- NO DESK -->
                         <h1 id="bota_div" style=" margin: 8vw 0vw 0vw 0vw;">ANÚNCIOS EM REDES SOCIAIS</h1> <!-- NO MOBILE -->
                         </p>
-                        <p class="lead wow fadeInUp animated" data-wow-delay=".2s">Os anúncios em redes sociais são uma forma de aumentar o alcance do seu conteúdo, possibilitando que ele seja
+                        <p class="lead wow fadeInUp animated " data-wow-delay=".2s">Os anúncios em redes sociais são uma forma de aumentar o alcance do seu conteúdo, possibilitando que ele seja
                             visto por mais pessoas.</p><br>
                     </div>
                     <div>

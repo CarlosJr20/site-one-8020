@@ -15536,6 +15536,9 @@ main.home {
         margin: -7vw 0vw 0vw 0vw;
 
     }
+    .p_tela_grande{
+        margin: 1vw 2vw 5vw 0vw !important;
+    }
 
     .img_beneficios {
         width: 100%;
