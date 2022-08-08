@@ -47,15 +47,17 @@
 
                         <br>
                         <div class="form-label-group ">
-                            <input type="email" placeholder="E-mail" name="email" class="form-control campo_form" required="">
+                            <input type="text" placeholder="Especialidade/segmento" name="assunto" class="form-control campo_form" required="true">
                         </div>
-                        <br>
-                        <div class="form-label-group ">
-                            <input type="text" placeholder="Assunto" name="assunto" class="form-control campo_form" required="true">
-                        </div>
+                       
                         <br>
                         <div class="form-label-group  ">
                             <input type="text" placeholder="WhatsApp" name="whtass" class="form-control campo_form" required="true">
+                        </div>
+                        
+                        <br>
+                        <div class="form-label-group ">
+                            <input type="email" placeholder="E-mail" name="email" class="form-control campo_form" required="">
                         </div>
                         <br>
                         <div class="form-label-group mb-3 ">

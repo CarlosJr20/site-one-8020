@@ -64,8 +64,7 @@
                 <div class="descricao_social_media">
 
                     <p class="lead wow fadeInUp animated texto_incial" data-wow-delay=".2s">A presença das empresas e profissionais nas mídias sociais se tornou imprescindível. As redes sociais são o meio onde
-                        seu público-alvo está esperando a solução que você oferece para necessidades, problemas e desejos! Apareça e seja
-                        destacado com as pautas ONE 80/20.</p><br>
+                        seu público-alvo está esperando a solução que você oferece para necessidades, problemas e desejos! Apareça e destaque-se com as pautas ONE 80/20.</p><br>
                     <p class="lead wow fadeInUp animated" data-wow-delay=".2s">
                     <h1>OBJETIVOS</h1>
                     </p>
