@@ -12,6 +12,7 @@
                     <li class="nav-item"><a class="nav-link" href="/">HOME</a></li>
                     <li class="nav-item"><a class="nav-link" href="/seo/">SEO</a></li>
                     <li class="nav-item"><a class="nav-link" href="/redes-sociais/">REDES SOCIAIS</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/marketing-medico/">MARKETING MÉDICO</a></li>
                     <li class="nav-item"><a class="nav-link" href="/desenvolvimento-web/">SITES</a></li>
                     <li class="nav-item"><a class="nav-link" href="/blog/">BLOG</a></li>
                     <li class="nav-item"><a class="nav-link" href="/contato/">CONTATO</a></li>

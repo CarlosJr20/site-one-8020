@@ -32,7 +32,7 @@
                             <li><a href="/seo-sao-paulo">SEO São Paulo;</a></li>
                             <li><a href="/seo-rio-de-janeiro">SEO Rio de Janeiro;</a></li>
                             <li><a href="/desenvolvimento-web/">Desenvolvimento de sites;</a></li>
-                            <li><a href="/redes-sociais/">Marketing Digital;</a></li>
+                            <li><a href="/marketing-medico/">Marketing Médico;</a></li>
                         </ul>
                     </div>
                 </div>
@@ -59,7 +59,8 @@
             <nav class="footer-navigation">
                 <a href=" ">Home</a>
                 <a href="/seo/">SEO</a>
-                <a href="/social-media/">Social Media</a>
+                <a href="/redes-sociais/">Social Media</a>
+                <a href="/marketing-medico/">Marketing Médico</a>
                 <a href="/desenvolvimento-web/">Sites</a>
                 <a href="/blog/">Blog</a>
                 <a href="/contato/">Contato</a>
