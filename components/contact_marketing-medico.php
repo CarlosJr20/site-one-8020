@@ -34,7 +34,7 @@
     <div class="container">
         <div class="row">
             <div class="preamble preamble--light col-lg-12 div_title_contatc2">
-                <h2 class="title wow animated fadeInUp h1_title_contact h1_title_contact_medico"><b>AENTRE EM CONTATO PARA OBTER UM PLANO DE
+                <h2 class="title wow animated fadeInUp h1_title_contact h1_title_contact_medico"><b>ENTRE EM CONTATO PARA OBTER UM PLANO DE
                         MARKETING MÉDICO DE ALTO DESEMPENHO</b></h2>
             </div>
             <div class="preamble preamble--light col-lg-8 offset-lg-2" style="background-color: #cccccd; padding: 2vw; border-radius: 30px;">
