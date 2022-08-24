@@ -7,6 +7,7 @@ $nome = utf8_decode($_POST['nome']);
 $assunto = utf8_decode($_POST['assunto']);
 $whatss = utf8_decode($_POST['whtass']);
 $email = $_POST['email'];
+$select = $_POST['select'];
 $mensagem = $_POST['mensagem'];
 $captcha = $_POST['g-recaptcha-response'];
 
@@ -62,6 +63,7 @@ try {
 								<td data-link-style="text-decoration:none; color:#c86e6e;" data-link-color="Content Link25" data-color="Content25" data-size="Content25" style="font-family: Open sans, Arial, sans-serif; color: rgb(97, 97, 97); font-size: 15px; line-height: 25.5px; padding-bottom:20px;">
 								Solicitação de contato para: <strong>'.$nome.'</strong> Assunto:' .$assunto. '<br> WhatsApp:'.$whatss.'<br>através do site.<br><br>
 								<strong>Email:</strong> '.$email.'<br>
+								<strong>Interesse:</strong> '.$select.'<br>
 								<strong>Mensagem:</strong> '.$mensagem.'<br>
 								</td>
 							</tr>

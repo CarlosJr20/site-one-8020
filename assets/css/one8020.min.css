@@ -14731,7 +14731,9 @@ main.home {
 /* Mudanças Agosto de 2022 */
 /* Mudanças 16 de Agosto de 2022*/
 
-@media only screen and (min-width:320px) and (max-width:768px) { /* CELULAR */
+@media only screen and (min-width:320px) and (max-width:768px) {
+
+    /* CELULAR */
     #tira_div {
         display: none !important;
 
@@ -14744,8 +14746,9 @@ main.home {
     }
 }
 
-@media (min-width:320px) and (max-width:768px) {/* CELULAR */
-    
+@media (min-width:320px) and (max-width:768px) {
+    /* CELULAR */
+
     /* Add Marketing Médico*/
     .card_100 {
         text-align: inherit;
@@ -14795,14 +14798,15 @@ main.home {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
+
+    .btn_saiba_mtk {
         margin: -7vw 0vw 5vw 0vw !important;
         padding: 14px 0px !important;
         font-size: 18px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */
@@ -14813,6 +14817,7 @@ main.home {
         color: #fff;
         width: -webkit-fill-available;
     }
+
     .img_fundo_mkt_medc {
         /* background: url(/assets/img/social-media-mobile/banner.png) bottom; */
         background-size: cover;
@@ -14946,9 +14951,11 @@ main.home {
 
 
 }
+
 /* END CELULAR */
 
-@media (min-width:768px) and (max-width:1400px) { /* NOTEBOOK COM TELA PADRÃO */
+@media (min-width:768px) and (max-width:1400px) {
+    /* NOTEBOOK COM TELA PADRÃO */
 
     .section--padding {
         padding: 120px 0;
@@ -15008,6 +15015,26 @@ main.home {
     .div_title_contatc2 {
 
         /* margin: 0vw 0vw 6vw 0vw; */
+    }
+    .campo_form_mkt{
+        display: block;
+        width: 100%;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: 1.25rem;
+        text-align: left;
+        transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+    .title_campo_radio{
+        margin: 1vw 0vw -2vw 5px;
+    }
+    .campo_radio{
+        margin: 1vw 0vw 1vw 1vw;
     }
 
     /* Fim Marketing Médico */
@@ -15167,8 +15194,9 @@ main.home {
 
 
 @media (min-width:1400px) and (max-width:1830px) {
-     /* Add Marketing Médico*/
-     .card_100 {
+
+    /* Add Marketing Médico*/
+    .card_100 {
         text-align: inherit;
         color: black;
         margin: -5vw 0vw 8vw 0vw;
@@ -15216,14 +15244,15 @@ main.home {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
+
+    .btn_saiba_mtk {
         margin: -7vw 0vw 5vw 0vw !important;
         padding: 14px 0px !important;
         font-size: 18px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */
@@ -15366,8 +15395,9 @@ main.home {
 
 
 @media (min-width:1820px) and (max-width:2030px) {
-     /* Add Marketing Médico*/
-     .card_100 {
+
+    /* Add Marketing Médico*/
+    .card_100 {
         text-align: inherit;
         color: black;
         margin: -5vw 0vw 8vw 0vw;
@@ -15415,14 +15445,15 @@ main.home {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
+
+    .btn_saiba_mtk {
         margin: -7vw 0vw 5vw 0vw !important;
         padding: 14px 0px !important;
         font-size: 18px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */
@@ -15572,8 +15603,9 @@ main.home {
 
 
 @media (min-width:2530px) and (max-width:2580px) {
-     /* Add Marketing Médico*/
-     .card_100 {
+
+    /* Add Marketing Médico*/
+    .card_100 {
         text-align: inherit;
         color: black;
         margin: -5vw 0vw 8vw 0vw;
@@ -15621,14 +15653,15 @@ main.home {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
+
+    .btn_saiba_mtk {
         margin: -7vw 0vw 5vw 0vw !important;
         padding: 14px 0px !important;
         font-size: 18px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */
@@ -15641,7 +15674,7 @@ main.home {
     }
 
     .texto_incial {
-        margin: 3vw 0vw 0vw 0vw !important;
+        margin: 0vw 0vw 2vw 0vw !important;
     }
 
     .icone_lista {
@@ -15787,11 +15820,11 @@ main.home {
 
 @media (min-width:2030px) and (max-width:2670px) {
 
-     /* Add Marketing Médico*/
-     .card_100 {
+    /* Add Marketing Médico*/
+    .card_100 {
         text-align: inherit;
         color: black;
-        margin: -5vw 0vw 8vw 0vw;
+        margin: -2vw 0vw 4vw 0vw;
         width: 100%;
     }
 
@@ -15800,15 +15833,15 @@ main.home {
     }
 
     #btn_desc_saiba {
-        margin: -9vw 0vw 0vw 0vw !important;
+        margin: -6vw 0vw 0vw 0vw !important;
     }
 
     .card_ads {
-        margin: 3vw 0vw 8vw 0vw;
+        margin: 0vw 0vw 4vw 0vw;
     }
 
     .card_seo {
-        margin: -3vw 0vw 8vw 0vw;
+        margin: -1vw 0vw 4vw 0vw;
     }
 
     .seperador_btn {
@@ -15823,27 +15856,28 @@ main.home {
         display: flex;
         margin: auto;
         margin-top: -64px;
-        width: 64%;
+        width: 44%;
 
     }
 
     .h1_title_contact_medico {
         font-size: 36px !important;
-        margin: -4vw 0vw -5vw 0vw;
+        margin: -2vw 0vw -5vw 0vw;
     }
 
     .div_title_contatc2 {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
-        margin: -7vw 0vw 5vw 0vw !important;
+
+    .btn_saiba_mtk {
+        margin: -6vw 0vw -2vw 0vw !important;
         padding: 14px 0px !important;
-        font-size: 18px !important;
+        font-size: 32px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */
@@ -15878,7 +15912,7 @@ main.home {
     .descricao_social_media {
         text-align: justify;
         color: black;
-        margin: -6vw 0vw 0vw 0vw;
+        margin: -1vw 0vw 0vw 0vw;
     }
 
     h4 {
@@ -15888,6 +15922,7 @@ main.home {
         /* margin: -4vw 0vw 0vw 0vw !important; */
         color: #26497e !important;
         font-variant-ligatures: common-ligatures;
+        font-size: 28px;
 
 
     }
@@ -16005,8 +16040,9 @@ main.home {
 }
 
 @media (min-width:2680px) and (max-width:3200px) {
-     /* Add Marketing Médico*/
-     .card_100 {
+
+    /* Add Marketing Médico*/
+    .card_100 {
         text-align: inherit;
         color: black;
         margin: -5vw 0vw 8vw 0vw;
@@ -16054,14 +16090,15 @@ main.home {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
+
+    .btn_saiba_mtk {
         margin: -7vw 0vw 5vw 0vw !important;
         padding: 14px 0px !important;
         font-size: 18px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */
@@ -16225,8 +16262,8 @@ main.home {
 
 @media (min-width:3300px) and (max-width:8000px) {
 
-     /* Add Marketing Médico*/
-     .card_100 {
+    /* Add Marketing Médico*/
+    .card_100 {
         text-align: inherit;
         color: black;
         margin: -5vw 0vw 8vw 0vw;
@@ -16274,14 +16311,15 @@ main.home {
 
         /* margin: 0vw 0vw 6vw 0vw; */
     }
-    .btn_saiba_mtk{
+
+    .btn_saiba_mtk {
         margin: -7vw 0vw 5vw 0vw !important;
         padding: 14px 0px !important;
         font-size: 18px !important;
     }
 
-    .seperador_seta_mkt{
-       margin: -3px 0vw 0vw 0vw !important;
+    .seperador_seta_mkt {
+        margin: -3px 0vw 0vw 0vw !important;
     }
 
     /* Fim Marketing Médico */

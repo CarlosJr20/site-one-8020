@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Otimização De Mídia E Redes Sociais Recife | Marketing De Mídia E Redes Sociais Recife</title>
+    <title>Marketing Médico | Marketing para Médicos</title>
     <meta name="description" content="O Marketing de Mídia Social ou Redes Socias são uma das melhores maneiras de promover sua marca on-line. Marketing e Otimização de Mídias e Redes Sociais em Recife.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://one8020.com.br/" itemprop="url">
@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css?v=4.0.0">
     <link rel="stylesheet" href="/assets/css/one8020.min.css?v=1.0.3">
 
-    <meta property="og:title" content="Otimização De Mídia E Redes Sociais Recife | Marketing De Mídia E Redes Sociais Recife">
+    <meta property="og:title" content="Marketing Médico | Marketing para Médicos">
     <meta property="og:url" content="https://one8020.com.br/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="/assets/img/favicon.ico">
