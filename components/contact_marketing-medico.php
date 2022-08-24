@@ -65,7 +65,7 @@
                         <div class="title_campo_radio"><strong>Selecione o(s) serviço(s) de interesse:</strong></div>
                         <br>
                         <div class="campo_radio">
-                            <input type="radio" name="select" value="0" required="" /> Brandin <br />
+                            <input type="radio" name="select" value="0" required="" /> Branding <br />
                             <input type="radio" name="select" value="0" required="" /> Criação de Website <br />
                             <input type="radio" name="select" value="0" required="" /> Redes Sociais <br />
                             <input type="radio" name="select" value="0" required="" /> Anúncios e Gestão de Tráfego<br />
